@@ -1,24 +1,22 @@
-# legal_lense
-
-# Welcome to the LegalLense project
+# Welcome to your Lovable project
 
 ## Project info
 
-**URL**: https://legallense.netlify.app/
+**URL**: https://lovable.dev/projects/089f531d-2928-4b7f-9277-1172dfc7bb99
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use npm**
+**Use Lovable**
 
-Simply visit the [LegalLense Project](https://github.com/Vaishhhnavi77/legal_lense.git) and start prompting.
+Simply visit the [LegalLense Project](https://lovable.dev/projects/089f531d-2928-4b7f-9277-1172dfc7bb99) and start prompting.
 
 
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -26,10 +24,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <[YOUR_GIT_URL](https://github.com/Vaishhhnavi77/legal_lense.git)>
+git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
-cd <legal_lense>
+cd <YOUR_PROJECT_NAME>
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -62,4 +60,14 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-license : MIT 
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/089f531d-2928-4b7f-9277-1172dfc7bb99) and click on Share -> Publish.
+
+## Can I connect a custom domain to my Lovable project?
+
+Yes, you can!
+
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
